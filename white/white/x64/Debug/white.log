@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+C:\Users\lenovo\source\repos\white\white\main.cpp(19,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  white.vcxproj -> C:\Users\lenovo\source\repos\white\x64\Debug\white.exe
